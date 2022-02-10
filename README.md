@@ -1,5 +1,6 @@
 # Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2341FF00&center=true&lines=I'm+Karthik;I'm+a+programmer)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karthxk&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
